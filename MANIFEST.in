@@ -1,0 +1,5 @@
+recursive-include examples *.conf
+recursive-include examples *.py
+include README
+include LICENSE
+include requirements.txt

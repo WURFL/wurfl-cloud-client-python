@@ -1,0 +1,7 @@
+1.1.0
+    - Open source release.
+    - General cleanup.
+    - Implemented NullCache.
+
+1.0.0
+    - Initial release.

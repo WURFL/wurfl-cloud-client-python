@@ -1,0 +1,4 @@
+requests
+pylibmc
+nose
+sqlitedict
