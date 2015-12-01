@@ -14,7 +14,7 @@ __license__ = """
 
 """
 __copyright__ = "2015 ScientiaMobile Incorporated, All Rights Reserved"
-__version__ = "1.1.0"
+__version__ = "1.1.1"
 
 
 def read(fname):
@@ -23,7 +23,7 @@ def read(fname):
 
 #doc = __doc__.strip()
 
-setup (name="wurfl_cloud",
+setup (name="wurfl-cloud",
        version=__version__,
        author="ScientiaMobile",
        author_email="support@scientiamobile.com",
@@ -32,7 +32,7 @@ setup (name="wurfl_cloud",
        #description=doc,
        #long_description=read('doc/README'),
        platforms="All",
-       classifiers=['Development Status :: 3 - Alpha',
+       classifiers=['Development Status :: 5 - Production/Stable',
                     'Environment :: Console',
                     'Environment :: Web Environment',
                     'Intended Audience :: Developers',
