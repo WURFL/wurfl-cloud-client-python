@@ -23,7 +23,7 @@ http://www.scientiamobile.com/cloud
 
 **Via PIP:**
 
-    $ pip install wurflcloud
+    $ pip install wurfl-cloud
 
 **Via Source:**
 
